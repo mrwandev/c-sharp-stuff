@@ -32,5 +32,9 @@ VertexShakeB.cs linguist-detectable=false
 VertexZoom.cs linguist-detectable=false
 WarpTextExample.cs linguist-detectable=false
 
+DefaultWsdlHelpGenerator.aspx linguist-detectable=false
+DefaultWsdlHelpGenerator.aspx linguist-detectable=false
+DefaultWsdlHelpGenerator.aspx linguist-detectable=false
+
 *.cginc linguist-detectable=false
 *.shader linguist-detectable=false
