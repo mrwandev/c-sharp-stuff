@@ -1,3 +1,4 @@
+# TextMeshPro (unity package) c# scripts i dont want to count as scripts i wrote
 Benchmark01.cs linguist-detectable=false
 Benchmark01_UGUI.cs linguist-detectable=false
 Benchmark02.cs linguist-detectable=false
@@ -32,9 +33,11 @@ VertexShakeB.cs linguist-detectable=false
 VertexZoom.cs linguist-detectable=false
 WarpTextExample.cs linguist-detectable=false
 
+# aspx scripts (in unity builds) dont want to count as scripts i wrote
 DefaultWsdlHelpGenerator.aspx linguist-detectable=false
 DefaultWsdlHelpGenerator.aspx linguist-detectable=false
 DefaultWsdlHelpGenerator.aspx linguist-detectable=false
 
+# TextMeshPro (unity package) shader and scripts i dont want to count as scripts i wrote
 *.cginc linguist-detectable=false
 *.shader linguist-detectable=false
