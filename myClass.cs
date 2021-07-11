@@ -117,4 +117,14 @@ namespace myClass
             return d.ToString().Contains(".");
         }
     }
+    class words
+    {
+    }
+    class SaveLoadSystem
+    {
+        public static void SaveLine(string index, params type values)
+        {
+            
+        }
+    }
 }
